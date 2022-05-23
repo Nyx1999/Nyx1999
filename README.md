@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Css
 
 - Rahyulty & TheHackerCoding are pro coders and im a noob
-- luarocks!
+- Html is the best language!
